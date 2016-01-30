@@ -1,0 +1,71 @@
+.clear{
+	clear:both;
+}
+body{
+	font-family: "微软雅黑";
+}
+.tu{
+    width:100%;
+	height:541px;	
+	background:url("../imgs/bei6.jpg")no-repeat -15px -50px;
+	padding:110px 0 0 0;
+	/*background-size: couer;*/
+}
+.da{
+	width:1005px;
+	height:450px;
+	margin:0px auto;
+	box-shadow: 5px 5px 20px black;
+	border-radius: 25px;
+
+
+}
+.xiao{
+	float:left;
+	width:70px;
+	height:70px;
+	margin: 10px  ;
+	font-size: 50px;
+	text-align: center;
+	line-height: 70px;
+	border-radius: 20%;
+	/*box-shadow: 5px 5px 15px black;*/
+	font-weight: bold;
+	background:url("../imgs/55.png");
+
+}
+
+.jishiqi{
+	width:100px;
+	height:60px;
+	border:1px solid black;
+	background-color: black;
+	color:#fff;
+	font-size: 50px;
+	line-height: 60px;
+	text-align: center;
+	position:absolute;
+	top:40px;
+	left:280px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px black;
+	display: none;
+	z-index: 20;
+}
+.kaishi{
+	width:100px;
+	height:60px;
+	border:1px solid black;
+	background-color: black;
+	color:#fff;
+	font-size: 50px;
+	line-height: 60px;
+	text-align: center;
+	position:absolute;
+	top:40px;
+	left:280px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px black;
+	cursor: pointer;
+	display: block;
+}
